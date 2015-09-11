@@ -4,7 +4,7 @@ application package manage for mac, windows, and linux.
 
 ```bash
 appm install chrome@34   # can run on windows, linux, and mac
-appm install ie@6        # 
+appm install ie@6        # install natively on windows, or download IE vm
 appm publish             # publish a new package
 ```
 
