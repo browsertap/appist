@@ -1,0 +1,19 @@
+{
+  "name": "appm",
+  "version": "1.0.0",
+  "description": "application installer for mac &amp; windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browsertap/appm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/browsertap/appm/issues"
+  },
+  "homepage": "https://github.com/browsertap/appm#readme"
+}
