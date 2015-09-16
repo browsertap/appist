@@ -1,0 +1,10 @@
+{
+  "name": "Chrome",
+  "version": "canary",
+  "vendor": "Google",
+  "tags": ["browser"],
+  "platforms": [{
+    "is": "win",
+    "version": "10"
+  }]
+}

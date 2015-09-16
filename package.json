@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/browsertap/appm/issues"
   },
-  "homepage": "https://github.com/browsertap/appm#readme"
+  "homepage": "https://github.com/browsertap/appm#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "inquirer": "^0.10.0",
+    "sift": "^2.0.8",
+    "superagent": "^1.4.0"
+  }
 }
